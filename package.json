@@ -1,10 +1,10 @@
 {
     "name": "autos-colombia",
     "version": "1.0.0",
-    "main": "server/index.js",
-    "scripts": {
-      "start": "node server/index.js"
-    },
+  "main": "server/app.js",
+"scripts": {
+  "start": "node server/app.js"
+},
     "dependencies": {
       "body-parser": "^1.20.2",
       "cors": "^2.8.5",
